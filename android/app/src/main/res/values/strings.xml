@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mint Vault Breakers</string>
+
+    <string name="brand_title">MINT VAULT BREAKERS</string>
+    <string name="brand_short">MINT VAULT</string>
+    <string name="splash_subtitle">CRACK THE CHAIN</string>
+    <string name="splash_loading">LOADING</string>
+
+    <string name="menu_hero">BREAK THE CHAIN, BANK THE MINT</string>
+    <string name="menu_stage_line">STAGE %1$d · %2$s</string>
+    <string name="play">PLAY</string>
+    <string name="menu_play_caption">CONTINUE STAGE %1$d</string>
+    <string name="levels">LEVELS</string>
+    <string name="levels_caption">%1$d/6 STAGES</string>
+    <string name="missions">MISSIONS</string>
+    <string name="missions_caption">%1$d/6 DONE</string>
+    <string name="collection">COLLECTION</string>
+    <string name="collection_caption">%1$d/10 OWNED</string>
+    <string name="rewards">REWARDS</string>
+    <string name="rewards_caption">%1$d READY</string>
+    <string name="rewards_caption_idle">KEEP BANKING</string>
+    <string name="tutorial">TUTORIAL</string>
+    <string name="settings">SETTINGS</string>
+    <string name="menu_footer">BEST VAULT %1$d · LONGEST CHAIN %2$d</string>
+    <string name="menu">MENU</string>
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+    <string name="close">CLOSE</string>
+
+    <string name="tutorial_step_counter">%1$d / %2$d</string>
+    <string name="tutorial_title_1">STRIKE</string>
+    <string name="tutorial_body_1">HIT A LOCK AND ONE ARMOUR PLATE FALLS AWAY.</string>
+    <string name="tutorial_title_2">CHAIN</string>
+    <string name="tutorial_body_2">A LOCK WITH NO PLATES LEFT CRACKS AND STRIKES THE NEXT LOCK IN ITS ARROW DIRECTION.</string>
+    <string name="tutorial_title_3">ALARM</string>
+    <string name="tutorial_body_3">A STRIKE THAT CRACKS NOTHING RAISES THE ALARM. THREE AND THE VAULT LOCKS DOWN.</string>
+    <string name="tutorial_title_4">PRY BAR</string>
+    <string name="tutorial_body_4">A CHAIN OF THREE EARNS A PRY BAR. SPEND IT TO TURN ONE ARROW BY A QUARTER.</string>
+    <string name="tutorial_cta_last">PLAY NOW</string>
+
+    <string name="game_stage">STAGE %1$d · %2$s</string>
+    <string name="hud_quota">QUOTA</string>
+    <string name="hud_strikes">STRIKES</string>
+    <string name="hud_alarm">ALARM</string>
+    <string name="hud_quota_value">%1$d / %2$d</string>
+    <string name="hud_strikes_value">%1$d</string>
+    <string name="hud_alarm_value">%1$d / 3</string>
+    <string name="game_hint">STRIKE A LOCK · THE ARROW SHOWS THE CHAIN</string>
+    <string name="pry_bar">PRY BAR</string>
+    <string name="pry_bar_count">PRY BAR %1$d</string>
+    <string name="charge_action">DROP CHARGE</string>
+    <string name="charge_caption">RANDOM LOCK</string>
+    <string name="mode_pick_lock">PICK A LOCK</string>
+    <string name="mode_pick_arrow">PICK AN ARROW</string>
+    <string name="surge_banner">VAULT SURGE</string>
+
+    <string name="pause_title">VAULT PAUSED</string>
+    <string name="pause_body">THE WALL HOLDS WHILE YOU THINK.</string>
+    <string name="resume">RESUME</string>
+
+    <string name="result_cracked">VAULT CRACKED</string>
+    <string name="result_lockdown">LOCKDOWN</string>
+    <string name="result_out_of_strikes">OUT OF STRIKES</string>
+    <string name="verdict_cracked">STAGE %1$d CLEARED</string>
+    <string name="verdict_lockdown">THE MINT SEALED ITSELF</string>
+    <string name="verdict_strikes">THE QUOTA HELD AT %1$d / %2$d</string>
+    <string name="stat_coins_banked">COINS BANKED</string>
+    <string name="stat_locks_cracked">LOCKS CRACKED</string>
+    <string name="stat_longest_chain">LONGEST CHAIN</string>
+    <string name="stat_mint_seal">MINT SEAL</string>
+    <string name="value_found">FOUND</string>
+    <string name="new_best">NEW BEST VAULT</string>
+    <string name="mission_complete">MISSION COMPLETE · %1$s</string>
+    <string name="play_again">PLAY AGAIN</string>
+
+    <string name="level_map_title">LEVEL MAP</string>
+    <string name="stage_1">COPPER MINT</string>
+    <string name="stage_2">SILVER DEPOSIT</string>
+    <string name="stage_3">GOLD RESERVE</string>
+    <string name="stage_4">PLATINUM CELLS</string>
+    <string name="stage_5">OBSIDIAN LEDGER</string>
+    <string name="stage_6">MINT PRIME CORE</string>
+    <string name="stage_index">STAGE %1$d</string>
+    <string name="stage_quota">QUOTA %1$d · %2$d STRIKES</string>
+    <string name="stage_best">BEST %1$d</string>
+    <string name="stage_locked">CLEAR STAGE %1$d TO OPEN</string>
+    <string name="locked">LOCKED</string>
+
+    <string name="missions_title">MISSIONS</string>
+    <string name="mission_1">CRACK 50 LOCKS</string>
+    <string name="mission_2">LAND A CHAIN OF 5</string>
+    <string name="mission_3">CLEAR SILVER DEPOSIT</string>
+    <string name="mission_4">BANK 5000 COINS</string>
+    <string name="mission_5">CLEAR A STAGE WITH A SILENT ALARM</string>
+    <string name="mission_6">COLLECT 3 MINT SEALS</string>
+    <string name="mission_progress">%1$d / %2$d</string>
+    <string name="mission_reward">+%1$d</string>
+    <string name="claim">CLAIM</string>
+    <string name="claimed">CLAIMED</string>
+    <string name="missions_all_done">EVERY CONTRACT CLOSED · THE MINT IS YOURS</string>
+
+    <string name="rewards_title">REWARDS</string>
+    <string name="rewards_disclaimer">VIRTUAL REWARDS ONLY · NO REAL MONEY, NO PURCHASES</string>
+    <string name="crate_1">COPPER CRATE</string>
+    <string name="crate_2">SILVER CRATE</string>
+    <string name="crate_3">GOLD CRATE</string>
+    <string name="crate_4">PRIME CRATE</string>
+    <string name="crate_threshold">BANK %1$d TOTAL</string>
+    <string name="crate_needs">BANK %1$d MORE</string>
+    <string name="crate_ready">READY</string>
+    <string name="rewards_empty">NOTHING READY YET · BANK MORE COINS</string>
+
+    <string name="collection_title">COLLECTION</string>
+    <string name="seal_1">COPPER SEAL</string>
+    <string name="seal_2">SILVER SEAL</string>
+    <string name="seal_3">GOLD SEAL</string>
+    <string name="seal_4">PLATINUM SEAL</string>
+    <string name="seal_5">OBSIDIAN SEAL</string>
+    <string name="seal_6">PRIME SEAL</string>
+    <string name="plate_copper">COPPER PLATE</string>
+    <string name="plate_silver">SILVER PLATE</string>
+    <string name="plate_gold">GOLD PLATE</string>
+    <string name="plate_prime">MINT PRIME PLATE</string>
+    <string name="collection_empty">THE CABINET IS EMPTY · CRACK A MINT SEAL TO BEGIN</string>
+    <string name="active">ACTIVE</string>
+    <string name="collection_hint">PICK AN OWNED PLATE TO FRAME YOUR VAULT WALL</string>
+
+    <string name="settings_title">SETTINGS</string>
+    <string name="setting_chain_speed">CHAIN SPEED</string>
+    <string name="speed_relaxed">RELAXED</string>
+    <string name="speed_standard">STANDARD</string>
+    <string name="speed_swift">SWIFT</string>
+    <string name="setting_high_contrast">HIGH CONTRAST MARKS</string>
+    <string name="setting_haptics">HAPTIC STRIKE</string>
+    <string name="setting_hint">SHOW CHAIN HINT</string>
+    <string name="setting_on">ON</string>
+    <string name="setting_off">OFF</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset_title">RESET PROGRESS</string>
+    <string name="reset_body">EVERY STAGE, COIN, MISSION AND PLATE RETURNS TO ZERO.</string>
+    <string name="reset_confirm">RESET</string>
+    <string name="cancel">CANCEL</string>
+    <string name="settings_footer">OFFLINE · NO PURCHASES · NO TRACKING</string>
+
+    <string name="cd_logo">Mint Vault emblem</string>
+    <string name="cd_coin">Coin total</string>
+    <string name="cd_home">Return to the menu</string>
+    <string name="cd_pause">Pause the vault</string>
+    <string name="cd_lock">Lock with %1$d plates striking %2$s</string>
+    <string name="cd_seal_lock">Mint seal lock with %1$d plates striking %2$s</string>
+    <string name="cd_empty_cell">Empty cell</string>
+    <string name="cd_pry_tool">Pry bar tool</string>
+    <string name="cd_crate">Vault crate</string>
+    <string name="cd_dial">Vault dial</string>
+    <string name="dir_up">up</string>
+    <string name="dir_down">down</string>
+    <string name="dir_left">left</string>
+    <string name="dir_right">right</string>
+    <string name="state_alarm">alarm %1$d of 3</string>
+    <string name="state_locked">locked</string>
+    <string name="state_owned">owned</string>
+    <string name="state_active">active</string>
+    <string name="state_claimed">claimed</string>
+    <string name="state_ready">ready to claim</string>
+    <string name="state_quota">%1$d of %2$d coins banked</string>
+</resources>
